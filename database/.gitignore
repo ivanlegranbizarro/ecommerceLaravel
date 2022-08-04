@@ -21,6 +21,7 @@ storage/*.key
 Homestead.yaml
 Homestead.json
 /.vagrant
+/.scribe
 .phpunit.result.cache
 Footer
 
