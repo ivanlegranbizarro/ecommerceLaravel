@@ -1,1 +1,30 @@
 *.sqlite*
+!scribe/
+.env
+.env.local
+.env.example
+/vendor/
+node_modules/
+npm-debug.log
+yarn-error.log
+
+bootstrap/compiled.php
+app/storage/
+
+public/storage
+public/hot
+
+public_html/storage
+public_html/hot
+
+storage/*.key
+Homestead.yaml
+Homestead.json
+/.vagrant
+.phpunit.result.cache
+Footer
+
+© 2022 GitHub, Inc.
+Footer navigation
+
+
